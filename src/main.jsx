@@ -6,7 +6,8 @@ function App() {
 
   return (
     <div className="card">
-      <h1>Codex vibe starter</h1>
+      <h1>GLITCH ORACLE v2</h1>
+      <p>Recovered fragments from unstable memory</p>
       <p>Your Cloudflare build is alive.</p>
       <p>Clicks: {count}</p>
       <button onClick={() => setCount((c) => c + 1)}>Click me</button>
